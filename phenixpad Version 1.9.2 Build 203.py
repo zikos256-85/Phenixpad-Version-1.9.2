@@ -201,7 +201,7 @@ class Notepad:
             file.close()
 
     def __GhitHub(self):
-        webbrowser.open('https://github.com/zikos256-85/PhenixPad-Version-1.9-Final-Version')
+        webbrowser.open('https://github.com/zikos256-85/Phenixpad-Version-1.9.2')
 
 
     def __cut(self):
