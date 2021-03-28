@@ -23,8 +23,7 @@ Lien vers la page pour plus d'infromation: https://sites.google.com/view/phenixp
 
 2. Problème connus sur la mise a jour :
 
-- Nous avons rencontré un souci au niveau du chargement de l'icon, en ne peut pas apercevoir l'icon de l'application en haut de la fenêtre, et nous met par défaut l'icon gênera par python .
-Nous sommes actuellement entrain d'étudier sur ce bug et nous vos publieron une mise à jour dès que nous avons trouvé la solution.
+- À ce jour aucun problème à était détectée dans cette mise à jour
 
 La nouvelle version 1.9.3  et enfin disponible pour que vous puissez vous la procurez cliquez juste ici :
 https://github.com/zikos256-85/PhenixPad-Version-1.9.3
